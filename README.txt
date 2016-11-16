@@ -1,7 +1,3 @@
-
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
 This is Telephasic, a brand new site template for HTML5 UP. It features a sharp, modern
 design inspired by omfg everything, and makes good use of SVGs to ensure stuff looks
 nice and crispy on retina displays.
